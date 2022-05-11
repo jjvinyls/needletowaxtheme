@@ -67,7 +67,7 @@
 >
 	{% for menu_item in menu_list %}
 
-		<!-- Only show link to collection if there is items in the collection -->
+		<!-- [ALEEM-AHMED] Only show link to collection if there is items in the collection -->
 		{% if menu_item.object.products.size > 0 %}
 			{% assign d = depth | plus: 1 %}
 
