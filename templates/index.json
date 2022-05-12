@@ -224,7 +224,7 @@
       "settings": {
         "title": "Search for Vinyls",
         "text": "",
-        "placeholder": "What are you looking for?",
+        "placeholder": "Search by Artst, Genre, etc..",
         "filter_search_by": "disabled",
         "enable_live_search": true,
         "enable_live_search_images": false,
