@@ -187,12 +187,11 @@
         },
         "16522044318521d96b-1": {
           "type": "slide",
-          "disabled": true,
           "settings": {
-            "background_image": "shopify:\/\/shop_images\/london-uk.jpg",
-            "title": "",
-            "text": "",
-            "color": "#ffffff",
+            "background_image": "shopify:\/\/shop_images\/meadowlands_0.jpg",
+            "title": "CATCH US AT THE MEADOWLANDS FLEA",
+            "text": "Apr. 1st - Dec. 31st | 10 AM - 5 PM",
+            "color": "#161616",
             "link": "",
             "text_alignment": "center",
             "button_one_label": "",
@@ -201,8 +200,8 @@
             "button_two_label": "",
             "button_two_link": "",
             "button_two_style": "primary",
-            "show_overlay": false,
-            "overlay_color": "#000000",
+            "show_overlay": true,
+            "overlay_color": "#f6feff",
             "overlay_opacity": 50
           }
         }
