@@ -308,6 +308,11 @@
       "type": "dyanamic-advanced-grid",
       "settings": {
       }
+    },
+    "1652375297f47563b3": {
+      "type": "dyanamic-advanced-grid",
+      "settings": {
+      }
     }
   },
   "order": [
@@ -319,6 +324,7 @@
     "dynamic_promo_grid-2",
     "1652197372183660c0",
     "1652191454e2abb247",
-    "1652374386f66dd935"
+    "1652374386f66dd935",
+    "1652375297f47563b3"
   ]
 }
