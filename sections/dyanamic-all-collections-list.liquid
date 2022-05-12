@@ -5,15 +5,6 @@
 >
 
 <div class="container">
-	<div class="welcome-outter">
-		{% if section.settings.showTitle %}
-			<h2 class="home-section--title">
-				All Collections
-			</h2>
-			<h6 style="text-align: center;">{{ collections.length }}</h6>
-		{% endif %}
-	</div>
-
 	<div class="row">
 		<!-- Show all collections -->
 		{%- for collection in collections -%}
@@ -30,14 +21,7 @@
 {% schema %}
 {
 	"name": "All Collections List",
-	"settings": [
-		{
-			"type": "checkbox",
-			"id": "showTitle",
-			"label": "Show Title",
-			"default": true
-		}
-	],
+	"settings": [],
 	"presets": [
 		{
 			"name": "All Collections List"
