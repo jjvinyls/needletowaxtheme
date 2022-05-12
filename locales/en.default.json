@@ -438,7 +438,7 @@
     "form": {
       "cancel": "Cancel",
       "label": "Search",
-      "placeholder": "What are you looking for?",
+      "placeholder": "Search By..",
       "filter_all": "All categories"
     },
     "general": {
