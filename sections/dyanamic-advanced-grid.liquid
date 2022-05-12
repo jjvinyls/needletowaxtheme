@@ -7,13 +7,13 @@
 <!-- Body -->
 <div class="container">
 	<div class="row">
-		<div class="col-12" style="background: red;">
-			{% if section.settings.title != blank and section.settings.showTitle %}
+		{% if section.settings.title != blank and section.settings.showTitle %}
+			<div class="col-12" style="">
 				<h2 class="home-section--title">
 					{{ section.settings.title | escape }}
 				</h2>
-			{% endif %}
-		</div>
+			</div>
+		{% endif %}
 
 		<div class="col-12 col-md-6 col-lg-4" style="background: red;">
 			content here
