@@ -4,38 +4,42 @@
 	href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/css/bootstrap-grid.min.css"
 >
 
-<!-- Body -->
 <div class="container">
 	<div class="welcome-outter">
-		{% if section.settings.title != blank and section.settings.showTitle %}
+		{% if section.settings.showTitle %}
 			<h2 class="home-section--title">
-				{{ section.settings.title | escape }}
+				All Collections
 			</h2>
 		{% endif %}
+	</div>
+
+	<div class="row">
+		<!-- Show all collections -->
+		{%- for collection in collections -%}
+			<div class="col-12 col-md-6 col-lg-4">
+				<a href="{{ collection.url }}" class="home-section--title">
+					{{ collection.title }}
+				</a>
+			</div>
+		{%- endfor -%}
 	</div>
 </div>
 
 <!-- Schema -->
 {% schema %}
 {
-	"name": "Grid Advanced",
+	"name": "All Collections List",
 	"settings": [
 		{
 			"type": "checkbox",
 			"id": "showTitle",
 			"label": "Show Title",
-			"default": false
+			"default": true
 		},
-		{
-			"type": "text",
-			"id": "title",
-			"label": "Heading"
-		}
 	],
 	"presets": [
 		{
-			"name": "Advanced Grid",
-			"category": "ADVANCED LAYOUT"
+			"name": "All Collections List"
 		}
 	]
 }
