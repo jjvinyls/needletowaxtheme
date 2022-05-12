@@ -222,7 +222,7 @@
     "dynamic_search": {
       "type": "dynamic-search",
       "settings": {
-        "title": "Search for Vinyls",
+        "title": "Search",
         "text": "",
         "placeholder": "Search by artst, genre, etc...",
         "filter_search_by": "disabled",
