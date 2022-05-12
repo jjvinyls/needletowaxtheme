@@ -1,3 +1,9 @@
+<!-- bootstrap CDN -->
+<link
+	rel="stylesheet"
+	href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/css/bootstrap-grid.min.css"
+>
+
 <!-- Welcome section starts -->
 <section class="welcome">
 	<div class="container">
@@ -8,22 +14,17 @@
 				</h2>
 			{% endif %}
 		</div>
-	</div>
 
-	<ul>
-		{%- for collection in collections -%}
-		  <li>
-			<!--
-			  These control flow tags check to see if there is a featured image for a collection.
-			  If there isn't one, then we assign the image from the first product in the collection.
-			-->
-	  
-			<a href="{{ collection.url }}">
-			  {{ collection.title }}
-			</a>
-		  </li>
-		{%- endfor -%}
-	  </ul>
+		<div class="row">
+			{%- for collection in collections -%}
+			  <div class="col-12 col-md-6 col-lg-4">
+				<a href="{{ collection.url }}">
+				  {{ collection.title }}
+				</a>
+			  </div>
+			{%- endfor -%}
+		</div>
+	</div>
 </section>
 
 <!-- Schema -->
