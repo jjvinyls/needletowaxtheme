@@ -6,12 +6,22 @@
 
 <!-- Body -->
 <div class="container">
-	<div class="welcome-outter">
-		{% if section.settings.title != blank and section.settings.showTitle %}
-			<h2 class="home-section--title">
-				{{ section.settings.title | escape }}
-			</h2>
-		{% endif %}
+	<div class="row">
+		<div class="col-12" style="background: red;">
+			{% if section.settings.title != blank and section.settings.showTitle %}
+				<h2 class="home-section--title">
+					{{ section.settings.title | escape }}
+				</h2>
+			{% endif %}
+		</div>
+
+		<div class="col-12 col-md-6 col-lg-4" style="background: red;">
+			content here
+		</div>
+
+		<div class="col-12 col-md-6 col-lg-4" style="background: red;">
+			content here
+		</div>
 	</div>
 </div>
 
