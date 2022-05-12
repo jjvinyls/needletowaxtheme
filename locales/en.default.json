@@ -438,7 +438,7 @@
     "form": {
       "cancel": "Cancel",
       "label": "Search",
-      "placeholder": "Search by adrtist, genre, etc..",
+      "placeholder": "Search by artist, genre, etc..",
       "filter_all": "All categories"
     },
     "general": {
