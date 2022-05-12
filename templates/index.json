@@ -232,7 +232,7 @@
         "image": "shopify:\/\/shop_images\/pawel-czerwinski-dQriq2v8xxc-unsplash.jpg",
         "position": "center-center",
         "show-overlay": true,
-        "color": "#ffffff",
+        "color": "#ed1b24",
         "background": "#000000",
         "opacity": 75
       }
@@ -287,7 +287,7 @@
     "1652197372183660c0": {
       "type": "dynamic-blog-posts",
       "settings": {
-        "title": "Our Blog",
+        "title": "Blog",
         "blog": "news",
         "show_date": true,
         "show_author": true,
