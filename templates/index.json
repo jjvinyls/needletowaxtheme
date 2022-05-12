@@ -1,1 +1,317 @@
-{"sections":{"dynamic_slideshow":{"type":"dynamic-slideshow","blocks":{"25082724-09bc-40b9-aaaa-1f7c32b9ef00":{"type":"slide","settings":{"background_image":"shopify:\/\/shop_images\/cover.jpg","title":"The Leader in Vinyl Records","text":"","color":"#ffffff","link":"","text_alignment":"center","button_one_label":"Explore","button_one_link":"shopify:\/\/pages\/explorer","button_one_style":"secondary","button_two_label":"","button_two_link":"","button_two_style":"secondary","show_overlay":false,"overlay_color":"#e01f1f","overlay_opacity":10}},"5bf71bfe-5eb9-432a-b85e-2425468f2daf":{"type":"slide","disabled":true,"settings":{"background_image":"shopify:\/\/shop_images\/imgonline-com-ua-ReplaceColor-ViwYX1wvNUcO2.jpg","title":"Audio Equipment","text":"","color":"#ffffff","link":"","text_alignment":"center","button_one_label":"Shop Now","button_one_link":"","button_one_style":"primary","button_two_label":"","button_two_link":"","button_two_style":"primary","show_overlay":true,"overlay_color":"#e01f1f","overlay_opacity":34}}},"block_order":["25082724-09bc-40b9-aaaa-1f7c32b9ef00","5bf71bfe-5eb9-432a-b85e-2425468f2daf"],"settings":{"enable_autoplay":true,"autoplay_duration":9,"slideshow_width":"full","slideshow_height":"medium","slideshow_height_mobile":"x-large","slideshow_text_below_image":false}},"1648735855b9114d43":{"type":"dynamic-promo-grid","blocks":{"1648735855319676c2-1":{"type":"promotion","settings":{"image":"shopify:\/\/shop_images\/artur-tumasjan-2AUdDiUnLg8-unsplash.jpg","background_position":"center-center","title":"Ready to Shop?","text":"Explore our highly curated collections of high quality vinyl records ..","color":"#ffffff","block_link":"shopify:\/\/collections","button_text":"Explore","button_style":"primary","show_overlay":true,"background":"#000000","opacity":73}},"1648735855319676c2-2":{"type":"promotion","settings":{"image":"shopify:\/\/shop_images\/intro.jpg","background_position":"center-center","title":"","text":"","color":"#ffffff","block_link":"","button_text":"","button_style":"primary","show_overlay":false,"background":"","opacity":50}}},"block_order":["1648735855319676c2-1","1648735855319676c2-2"],"settings":{"title":"","section_height":"small","section_columns":2,"text_alignment":"center-center"}},"dynamic_collection_list":{"type":"dynamic-collection-list","blocks":{"515aae50-f833-454f-9631-ebe74ad5bdd6":{"type":"collection","settings":{"collection":"rock","title":""}},"47efe46a-f7f5-4534-a28d-0331713a807d":{"type":"collection","settings":{"collection":"electronic","title":""}},"collection-1":{"type":"collection","settings":{"collection":"pop","title":""}},"6a331f29-78af-4779-a6e7-f375ce95bf88":{"type":"collection","settings":{"collection":"hip-hop","title":""}},"b1cf4d9b-b6c9-4185-b9d3-562101dc624c":{"type":"collection","settings":{"collection":"pop-rap","title":""}}},"block_order":["515aae50-f833-454f-9631-ebe74ad5bdd6","47efe46a-f7f5-4534-a28d-0331713a807d","collection-1","6a331f29-78af-4779-a6e7-f375ce95bf88","b1cf4d9b-b6c9-4185-b9d3-562101dc624c"],"settings":{"title":"","thumbnail_columns_desktop":5,"thumbnail_columns_mobile":3,"image-crop":"original","cta_label":"","cta_link":"shopify:\/\/collections","cta_button_style":"primary"}},"1652204431ae4e3083":{"type":"dynamic-slideshow","blocks":{"16522044318521d96b-0":{"type":"slide","settings":{"background_image":"shopify:\/\/shop_images\/new-york-city-buildings-and-water-towers.jpg","title":"","text":"","color":"#ffffff","link":"","text_alignment":"center","button_one_label":"","button_one_link":"","button_one_style":"primary","button_two_label":"","button_two_link":"","button_two_style":"primary","show_overlay":false,"overlay_color":"#000000","overlay_opacity":50}},"16522044318521d96b-1":{"type":"slide","settings":{"background_image":"shopify:\/\/shop_images\/london-uk.jpg","title":"","text":"","color":"#ffffff","link":"","text_alignment":"center","button_one_label":"","button_one_link":"","button_one_style":"primary","button_two_label":"","button_two_link":"","button_two_style":"primary","show_overlay":false,"overlay_color":"#000000","overlay_opacity":50}}},"block_order":["16522044318521d96b-0","16522044318521d96b-1"],"settings":{"enable_autoplay":true,"autoplay_duration":8,"slideshow_width":"full","slideshow_height":"small","slideshow_height_mobile":"medium","slideshow_text_below_image":true}},"dynamic_search":{"type":"dynamic-search","settings":{"title":"Search for Vinyls","text":"","placeholder":"What are you looking for?","filter_search_by":"disabled","enable_live_search":true,"enable_live_search_images":false,"enable_live_search_articles_pages":false,"image":"shopify:\/\/shop_images\/pawel-czerwinski-dQriq2v8xxc-unsplash.jpg","position":"center-center","show-overlay":true,"color":"#ffffff","background":"#000000","opacity":75}},"dynamic_promo_grid-2":{"type":"dynamic-promo-grid","blocks":{"c43fdeb2-62a9-4674-b777-1b9b8e62ca83":{"type":"promotion","settings":{"image":"shopify:\/\/shop_images\/lukas-tennie-q-bBeyLH2E8-unsplash.jpg","background_position":"center-center","title":"Learn About Our Origins..","text":"A bunch of guys (Jonny, Joey and Gaby) who have a passion for bringing life back to all vintage collectibles ...","color":"#f1f1f1","block_link":"shopify:\/\/pages\/about","button_text":"Read More","button_style":"primary","show_overlay":true,"background":"#ff0000","opacity":40}},"7e30abf6-9afc-42d0-88e1-7f8039b7b7a2":{"type":"promotion","settings":{"image":"shopify:\/\/shop_images\/artur-tumasjan-2AUdDiUnLg8-unsplash.jpg","background_position":"center-center","title":"Got Old Vinyls?","text":"We are glad to take them off your hands for a price.","color":"#ffffff","block_link":"shopify:\/\/pages\/contact","button_text":"Contact Us","button_style":"primary","show_overlay":true,"background":"#ff0000","opacity":40}}},"block_order":["c43fdeb2-62a9-4674-b777-1b9b8e62ca83","7e30abf6-9afc-42d0-88e1-7f8039b7b7a2"],"settings":{"title":"","section_height":"small","section_columns":2,"text_alignment":"center-left"}},"1652197372183660c0":{"type":"dynamic-blog-posts","settings":{"title":"Our Blog","blog":"news","show_date":true,"show_author":true,"show_excerpt":true}},"1652191454e2abb247":{"type":"pxs-newsletter","settings":{"title":"Newsletter","text":"","desktop_alignment":"left","mobile_alignment":"top"}}},"order":["dynamic_slideshow","1648735855b9114d43","dynamic_collection_list","1652204431ae4e3083","dynamic_search","dynamic_promo_grid-2","1652197372183660c0","1652191454e2abb247"]}
+{
+  "sections": {
+    "dynamic_slideshow": {
+      "type": "dynamic-slideshow",
+      "blocks": {
+        "25082724-09bc-40b9-aaaa-1f7c32b9ef00": {
+          "type": "slide",
+          "settings": {
+            "background_image": "shopify:\/\/shop_images\/cover.jpg",
+            "title": "The Leader in Vinyl Records",
+            "text": "",
+            "color": "#ffffff",
+            "link": "",
+            "text_alignment": "center",
+            "button_one_label": "Explore",
+            "button_one_link": "shopify:\/\/pages\/explorer",
+            "button_one_style": "secondary",
+            "button_two_label": "",
+            "button_two_link": "",
+            "button_two_style": "secondary",
+            "show_overlay": false,
+            "overlay_color": "#e01f1f",
+            "overlay_opacity": 10
+          }
+        },
+        "5bf71bfe-5eb9-432a-b85e-2425468f2daf": {
+          "type": "slide",
+          "disabled": true,
+          "settings": {
+            "background_image": "shopify:\/\/shop_images\/imgonline-com-ua-ReplaceColor-ViwYX1wvNUcO2.jpg",
+            "title": "Audio Equipment",
+            "text": "",
+            "color": "#ffffff",
+            "link": "",
+            "text_alignment": "center",
+            "button_one_label": "Shop Now",
+            "button_one_link": "",
+            "button_one_style": "primary",
+            "button_two_label": "",
+            "button_two_link": "",
+            "button_two_style": "primary",
+            "show_overlay": true,
+            "overlay_color": "#e01f1f",
+            "overlay_opacity": 34
+          }
+        }
+      },
+      "block_order": [
+        "25082724-09bc-40b9-aaaa-1f7c32b9ef00",
+        "5bf71bfe-5eb9-432a-b85e-2425468f2daf"
+      ],
+      "settings": {
+        "enable_autoplay": true,
+        "autoplay_duration": 9,
+        "slideshow_width": "full",
+        "slideshow_height": "medium",
+        "slideshow_height_mobile": "x-large",
+        "slideshow_text_below_image": false
+      }
+    },
+    "1648735855b9114d43": {
+      "type": "dynamic-promo-grid",
+      "blocks": {
+        "1648735855319676c2-1": {
+          "type": "promotion",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/artur-tumasjan-2AUdDiUnLg8-unsplash.jpg",
+            "background_position": "center-center",
+            "title": "Ready to Shop?",
+            "text": "Explore our highly curated collections of high quality vinyl records ..",
+            "color": "#ffffff",
+            "block_link": "shopify:\/\/collections",
+            "button_text": "Explore",
+            "button_style": "primary",
+            "show_overlay": true,
+            "background": "#000000",
+            "opacity": 73
+          }
+        },
+        "1648735855319676c2-2": {
+          "type": "promotion",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/intro.jpg",
+            "background_position": "center-center",
+            "title": "",
+            "text": "",
+            "color": "#ffffff",
+            "block_link": "",
+            "button_text": "",
+            "button_style": "primary",
+            "show_overlay": false,
+            "background": "",
+            "opacity": 50
+          }
+        }
+      },
+      "block_order": [
+        "1648735855319676c2-1",
+        "1648735855319676c2-2"
+      ],
+      "settings": {
+        "title": "",
+        "section_height": "small",
+        "section_columns": 2,
+        "text_alignment": "center-center"
+      }
+    },
+    "dynamic_collection_list": {
+      "type": "dynamic-collection-list",
+      "blocks": {
+        "515aae50-f833-454f-9631-ebe74ad5bdd6": {
+          "type": "collection",
+          "settings": {
+            "collection": "rock",
+            "title": ""
+          }
+        },
+        "47efe46a-f7f5-4534-a28d-0331713a807d": {
+          "type": "collection",
+          "settings": {
+            "collection": "electronic",
+            "title": ""
+          }
+        },
+        "collection-1": {
+          "type": "collection",
+          "settings": {
+            "collection": "pop",
+            "title": ""
+          }
+        },
+        "6a331f29-78af-4779-a6e7-f375ce95bf88": {
+          "type": "collection",
+          "settings": {
+            "collection": "hip-hop",
+            "title": ""
+          }
+        },
+        "b1cf4d9b-b6c9-4185-b9d3-562101dc624c": {
+          "type": "collection",
+          "settings": {
+            "collection": "pop-rap",
+            "title": ""
+          }
+        }
+      },
+      "block_order": [
+        "515aae50-f833-454f-9631-ebe74ad5bdd6",
+        "47efe46a-f7f5-4534-a28d-0331713a807d",
+        "collection-1",
+        "6a331f29-78af-4779-a6e7-f375ce95bf88",
+        "b1cf4d9b-b6c9-4185-b9d3-562101dc624c"
+      ],
+      "settings": {
+        "title": "",
+        "thumbnail_columns_desktop": 5,
+        "thumbnail_columns_mobile": 3,
+        "image-crop": "original",
+        "cta_label": "",
+        "cta_link": "shopify:\/\/collections",
+        "cta_button_style": "primary"
+      }
+    },
+    "1652204431ae4e3083": {
+      "type": "dynamic-slideshow",
+      "blocks": {
+        "16522044318521d96b-0": {
+          "type": "slide",
+          "settings": {
+            "background_image": "shopify:\/\/shop_images\/new-york-bridge.jpg",
+            "title": "CATCH US IN THE BROOKLYN FLEA",
+            "text": "Apr. 1st - Dec. 31st",
+            "color": "#1f0001",
+            "link": "",
+            "text_alignment": "center",
+            "button_one_label": "",
+            "button_one_link": "",
+            "button_one_style": "primary",
+            "button_two_label": "",
+            "button_two_link": "",
+            "button_two_style": "primary",
+            "show_overlay": true,
+            "overlay_color": "#f6feff",
+            "overlay_opacity": 25
+          }
+        },
+        "16522044318521d96b-1": {
+          "type": "slide",
+          "disabled": true,
+          "settings": {
+            "background_image": "shopify:\/\/shop_images\/london-uk.jpg",
+            "title": "",
+            "text": "",
+            "color": "#ffffff",
+            "link": "",
+            "text_alignment": "center",
+            "button_one_label": "",
+            "button_one_link": "",
+            "button_one_style": "primary",
+            "button_two_label": "",
+            "button_two_link": "",
+            "button_two_style": "primary",
+            "show_overlay": false,
+            "overlay_color": "#000000",
+            "overlay_opacity": 50
+          }
+        }
+      },
+      "block_order": [
+        "16522044318521d96b-0",
+        "16522044318521d96b-1"
+      ],
+      "settings": {
+        "enable_autoplay": true,
+        "autoplay_duration": 8,
+        "slideshow_width": "full",
+        "slideshow_height": "small",
+        "slideshow_height_mobile": "medium",
+        "slideshow_text_below_image": true
+      }
+    },
+    "dynamic_search": {
+      "type": "dynamic-search",
+      "settings": {
+        "title": "Search for Vinyls",
+        "text": "",
+        "placeholder": "What are you looking for?",
+        "filter_search_by": "disabled",
+        "enable_live_search": true,
+        "enable_live_search_images": false,
+        "enable_live_search_articles_pages": false,
+        "image": "shopify:\/\/shop_images\/pawel-czerwinski-dQriq2v8xxc-unsplash.jpg",
+        "position": "center-center",
+        "show-overlay": true,
+        "color": "#ffffff",
+        "background": "#000000",
+        "opacity": 75
+      }
+    },
+    "dynamic_promo_grid-2": {
+      "type": "dynamic-promo-grid",
+      "blocks": {
+        "c43fdeb2-62a9-4674-b777-1b9b8e62ca83": {
+          "type": "promotion",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/lukas-tennie-q-bBeyLH2E8-unsplash.jpg",
+            "background_position": "center-center",
+            "title": "Learn About Our Origins..",
+            "text": "A bunch of guys (Jonny, Joey and Gaby) who have a passion for bringing life back to all vintage collectibles ...",
+            "color": "#f1f1f1",
+            "block_link": "shopify:\/\/pages\/about",
+            "button_text": "Read More",
+            "button_style": "primary",
+            "show_overlay": true,
+            "background": "#ff0000",
+            "opacity": 40
+          }
+        },
+        "7e30abf6-9afc-42d0-88e1-7f8039b7b7a2": {
+          "type": "promotion",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/artur-tumasjan-2AUdDiUnLg8-unsplash.jpg",
+            "background_position": "center-center",
+            "title": "Got Old Vinyls?",
+            "text": "We are glad to take them off your hands for a price.",
+            "color": "#ffffff",
+            "block_link": "shopify:\/\/pages\/contact",
+            "button_text": "Contact Us",
+            "button_style": "primary",
+            "show_overlay": true,
+            "background": "#ff0000",
+            "opacity": 40
+          }
+        }
+      },
+      "block_order": [
+        "c43fdeb2-62a9-4674-b777-1b9b8e62ca83",
+        "7e30abf6-9afc-42d0-88e1-7f8039b7b7a2"
+      ],
+      "settings": {
+        "title": "",
+        "section_height": "small",
+        "section_columns": 2,
+        "text_alignment": "center-left"
+      }
+    },
+    "1652197372183660c0": {
+      "type": "dynamic-blog-posts",
+      "settings": {
+        "title": "Our Blog",
+        "blog": "news",
+        "show_date": true,
+        "show_author": true,
+        "show_excerpt": true
+      }
+    },
+    "1652191454e2abb247": {
+      "type": "pxs-newsletter",
+      "settings": {
+        "title": "Newsletter",
+        "text": "",
+        "desktop_alignment": "left",
+        "mobile_alignment": "top"
+      }
+    }
+  },
+  "order": [
+    "dynamic_slideshow",
+    "1648735855b9114d43",
+    "dynamic_collection_list",
+    "1652204431ae4e3083",
+    "dynamic_search",
+    "dynamic_promo_grid-2",
+    "1652197372183660c0",
+    "1652191454e2abb247"
+  ]
+}
