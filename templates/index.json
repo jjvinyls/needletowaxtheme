@@ -307,6 +307,8 @@
     "16523754802a2c9e49": {
       "type": "dyanamic-advanced-grid",
       "settings": {
+        "showTitle": false,
+        "title": "whats going on"
       }
     }
   },
