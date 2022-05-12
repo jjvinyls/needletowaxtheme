@@ -237,6 +237,13 @@
         "opacity": 75
       }
     },
+    "16523717348b5e5698": {
+      "type": "dynamic-html",
+      "settings": {
+        "title": "Custom HTML",
+        "custom_html": "<p>Write or paste your HTML code here<\/p>"
+      }
+    },
     "dynamic_promo_grid-2": {
       "type": "dynamic-promo-grid",
       "blocks": {
@@ -310,6 +317,7 @@
     "dynamic_collection_list",
     "1652204431ae4e3083",
     "dynamic_search",
+    "16523717348b5e5698",
     "dynamic_promo_grid-2",
     "1652197372183660c0",
     "1652191454e2abb247"
