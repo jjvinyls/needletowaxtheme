@@ -138,6 +138,7 @@
         },
         "b1cf4d9b-b6c9-4185-b9d3-562101dc624c": {
           "type": "collection",
+          "disabled": true,
           "settings": {
             "collection": "pop-rap",
             "title": ""
@@ -302,6 +303,11 @@
         "desktop_alignment": "left",
         "mobile_alignment": "top"
       }
+    },
+    "1652374386f66dd935": {
+      "type": "dyanamic-advanced-grid",
+      "settings": {
+      }
     }
   },
   "order": [
@@ -312,6 +318,7 @@
     "dynamic_search",
     "dynamic_promo_grid-2",
     "1652197372183660c0",
-    "1652191454e2abb247"
+    "1652191454e2abb247",
+    "1652374386f66dd935"
   ]
 }
