@@ -61,22 +61,6 @@
     "1648735855b9114d43": {
       "type": "dynamic-promo-grid",
       "blocks": {
-        "1648735855319676c2-1": {
-          "type": "promotion",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/artur-tumasjan-2AUdDiUnLg8-unsplash.jpg",
-            "background_position": "center-center",
-            "title": "Ready to Shop?",
-            "text": "Explore our highly curated collections of high quality vinyl records ..",
-            "color": "#ffffff",
-            "block_link": "shopify:\/\/collections",
-            "button_text": "Explore",
-            "button_style": "primary",
-            "show_overlay": true,
-            "background": "#000000",
-            "opacity": 73
-          }
-        },
         "1648735855319676c2-2": {
           "type": "promotion",
           "settings": {
@@ -92,11 +76,27 @@
             "background": "",
             "opacity": 50
           }
+        },
+        "1648735855319676c2-1": {
+          "type": "promotion",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/artur-tumasjan-2AUdDiUnLg8-unsplash.jpg",
+            "background_position": "center-center",
+            "title": "Ready to Shop?",
+            "text": "Explore our highly curated collections of high quality vinyl records ..",
+            "color": "#ffffff",
+            "block_link": "shopify:\/\/collections",
+            "button_text": "Explore",
+            "button_style": "primary",
+            "show_overlay": true,
+            "background": "#000000",
+            "opacity": 73
+          }
         }
       },
       "block_order": [
-        "1648735855319676c2-1",
-        "1648735855319676c2-2"
+        "1648735855319676c2-2",
+        "1648735855319676c2-1"
       ],
       "settings": {
         "title": "",
