@@ -1,1 +1,12 @@
-{"sections":{"main":{"type":"page","settings":{}},"16521921082fa32b0c":{"type":"dynamic-custom-liquid","settings":{"custom_liquid":""}}},"order":["main","16521921082fa32b0c"]}
+{
+  "sections": {
+    "main": {
+      "type": "page",
+      "settings": {
+      }
+    }
+  },
+  "order": [
+    "main"
+  ]
+}
