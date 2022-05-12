@@ -8,7 +8,7 @@
     "1652378295b02c3402": {
       "type": "dyanamic-all-collections-list",
       "settings": {
-        "showTitle": true
+        "showTitle": false
       }
     }
   },
