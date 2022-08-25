@@ -6,7 +6,7 @@
         "25082724-09bc-40b9-aaaa-1f7c32b9ef00": {
           "type": "slide",
           "settings": {
-            "background_image": "shopify:\/\/shop_images\/joyce-g-ITVCF_F1_00-unsplash_77b0d08a-6fdc-46af-abbf-f89356d4d3fa.jpg",
+            "background_image": "shopify:\/\/shop_images\/Needle_2_copy.jpg",
             "title": "The Leader in Vinyl Records",
             "text": "",
             "color": "#f2ebe3",
@@ -80,11 +80,11 @@
         "1648735855319676c2-1": {
           "type": "promotion",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Digging1_copy.jpg",
+            "image": "shopify:\/\/shop_images\/Digging1_copy_891e38af-2e4b-4f4e-ad95-b3794bb05e3a.jpg",
             "background_position": "center-center",
             "title": "Ready to Shop?",
             "text": "Explore our highly curated collections of high quality vinyl records ..",
-            "color": "#ffffff",
+            "color": "#f2ebe3",
             "block_link": "shopify:\/\/collections",
             "button_text": "Explore",
             "button_style": "primary",
@@ -258,8 +258,8 @@
         "7e30abf6-9afc-42d0-88e1-7f8039b7b7a2": {
           "type": "promotion",
           "settings": {
-            "image": "shopify:\/\/shop_images\/artur-tumasjan-2AUdDiUnLg8-unsplash.jpg",
-            "background_position": "center-center",
+            "image": "shopify:\/\/shop_images\/Old_copy.jpg",
+            "background_position": "bottom-center",
             "title": "Got Old Vinyls?",
             "text": "We are glad to take them off your hands for a price.",
             "color": "{{ shop.brand.colors.primary[1].background }}",
