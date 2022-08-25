@@ -6,7 +6,7 @@
         "25082724-09bc-40b9-aaaa-1f7c32b9ef00": {
           "type": "slide",
           "settings": {
-            "background_image": "shopify:\/\/shop_images\/Needle_2_copy.jpg",
+            "background_image": "shopify:\/\/shop_images\/Needle3_copy.jpg",
             "title": "The Leader in Vinyl Records",
             "text": "",
             "color": "#f2ebe3",
@@ -259,7 +259,7 @@
           "type": "promotion",
           "settings": {
             "image": "shopify:\/\/shop_images\/Old_copy.jpg",
-            "background_position": "bottom-center",
+            "background_position": "center-center",
             "title": "Got Old Vinyls?",
             "text": "We are glad to take them off your hands for a price.",
             "color": "{{ shop.brand.colors.primary[1].background }}",
