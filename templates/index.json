@@ -9,17 +9,17 @@
             "background_image": "shopify:\/\/shop_images\/joyce-g-ITVCF_F1_00-unsplash_77b0d08a-6fdc-46af-abbf-f89356d4d3fa.jpg",
             "title": "The Leader in Vinyl Records",
             "text": "",
-            "color": "#ffffff",
+            "color": "#f2ebe3",
             "link": "",
             "text_alignment": "center",
             "button_one_label": "Explore",
             "button_one_link": "shopify:\/\/pages\/explorer",
-            "button_one_style": "secondary",
+            "button_one_style": "primary",
             "button_two_label": "",
             "button_two_link": "",
             "button_two_style": "secondary",
             "show_overlay": false,
-            "overlay_color": "#e01f1f",
+            "overlay_color": "#262626",
             "overlay_opacity": 10
           }
         },
@@ -112,6 +112,7 @@
           "type": "collection",
           "settings": {
             "collection": "rock",
+            "image": "shopify:\/\/shop_images\/ART_1-05.png",
             "title": ""
           }
         },
@@ -176,7 +177,7 @@
             "text_alignment": "center",
             "button_one_label": "Google Maps",
             "button_one_link": "https:\/\/www.google.com\/maps?q=80+Pearl+St,+Brooklyn,+NY+11201&sxsrf=ALiCzsaHKenWAJOafCM8O-v8r82yoY8LSA:1652368519921&uact=5&gs_lcp=Cgdnd3Mtd2l6EAMyAggmMgUIABCGAzoHCAAQRxCwA0oECEEYAEoECEYYAFDfB1jfB2CDDmgDcAF4AIABTYgBTZIBATGYAQCgAQKgAQHIAQjAAQE&um=1&ie=UTF-8&sa=X&ved=2ahUKEwj51IS-oNr3AhWsmOAKHTzGBe4Q_AUoAXoECAEQAw",
-            "button_one_style": "primary",
+            "button_one_style": "secondary",
             "button_two_label": "",
             "button_two_link": "",
             "button_two_style": "primary",
@@ -196,7 +197,7 @@
             "text_alignment": "center",
             "button_one_label": "Google Maps",
             "button_one_link": "",
-            "button_one_style": "primary",
+            "button_one_style": "secondary",
             "button_two_label": "",
             "button_two_link": "",
             "button_two_style": "primary",
