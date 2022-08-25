@@ -301,13 +301,6 @@
         "desktop_alignment": "left",
         "mobile_alignment": "top"
       }
-    },
-    "16523754802a2c9e49": {
-      "type": "dyanamic-advanced-grid",
-      "settings": {
-        "showTitle": false,
-        "title": "whats going on"
-      }
     }
   },
   "order": [
@@ -318,7 +311,6 @@
     "dynamic_search",
     "dynamic_promo_grid-2",
     "1652197372183660c0",
-    "1652191454e2abb247",
-    "16523754802a2c9e49"
+    "1652191454e2abb247"
   ]
 }
