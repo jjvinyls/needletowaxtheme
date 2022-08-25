@@ -80,7 +80,7 @@
         "1648735855319676c2-1": {
           "type": "promotion",
           "settings": {
-            "image": "shopify:\/\/shop_images\/artur-tumasjan-2AUdDiUnLg8-unsplash.jpg",
+            "image": "shopify:\/\/shop_images\/Digging1_copy.jpg",
             "background_position": "center-center",
             "title": "Ready to Shop?",
             "text": "Explore our highly curated collections of high quality vinyl records ..",
@@ -90,7 +90,7 @@
             "button_style": "primary",
             "show_overlay": true,
             "background": "#000000",
-            "opacity": 73
+            "opacity": 40
           }
         }
       },
