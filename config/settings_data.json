@@ -98,7 +98,6 @@
             "type": "meganav_images",
             "settings": {
               "meganav_trigger": "Artist",
-              "image_1": "shopify:\/\/shop_images\/pawel-czerwinski-dQriq2v8xxc-unsplash.jpg",
               "text_1": "",
               "link_1": "",
               "position_1": "first",
@@ -113,7 +112,6 @@
             "type": "meganav_images",
             "settings": {
               "meganav_trigger": "Genre",
-              "image_1": "shopify:\/\/shop_images\/artur-tumasjan-2AUdDiUnLg8-unsplash.jpg",
               "text_1": "",
               "link_1": "",
               "position_1": "first",
@@ -128,7 +126,6 @@
             "type": "meganav_images",
             "settings": {
               "meganav_trigger": "Category",
-              "image_1": "shopify:\/\/shop_images\/pawel-czerwinski-OOFSqPWjCt0-unsplash.jpg",
               "text_1": "",
               "link_1": "",
               "position_1": "first",

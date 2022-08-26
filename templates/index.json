@@ -168,7 +168,7 @@
         "16522044318521d96b-0": {
           "type": "slide",
           "settings": {
-            "background_image": "shopify:\/\/shop_images\/bkflea-51-e1554471652231-modified.jpg",
+            "background_image": "shopify:\/\/shop_images\/DUMBO2_copy.jpg",
             "title": "Catch us at the Brooklyn Flea",
             "text": "Apr. 1st - Dec. 31st | 10 AM - 5 PM",
             "color": "#262626",
@@ -182,13 +182,13 @@
             "button_two_style": "primary",
             "show_overlay": true,
             "overlay_color": "#f2ebe3",
-            "overlay_opacity": 64
+            "overlay_opacity": 70
           }
         },
         "16522044318521d96b-1": {
           "type": "slide",
           "settings": {
-            "background_image": "shopify:\/\/shop_images\/Meadowlands_Racetrack_at_Sunset-modified.jpg",
+            "background_image": "shopify:\/\/shop_images\/Meadlowlands_copy.jpg",
             "title": "Catch us at the Meadowlands Flea",
             "text": "Apr. 1st - Dec. 31st | 10 AM - 5 PM",
             "color": "#161616",
@@ -202,7 +202,7 @@
             "button_two_style": "primary",
             "show_overlay": true,
             "overlay_color": "#f2ebe3",
-            "overlay_opacity": 50
+            "overlay_opacity": 70
           }
         }
       },
