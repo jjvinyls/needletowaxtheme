@@ -105,63 +105,6 @@
         "text_alignment": "center-center"
       }
     },
-    "dynamic_collection_list": {
-      "type": "dynamic-collection-list",
-      "blocks": {
-        "515aae50-f833-454f-9631-ebe74ad5bdd6": {
-          "type": "collection",
-          "settings": {
-            "collection": "rock",
-            "title": ""
-          }
-        },
-        "47efe46a-f7f5-4534-a28d-0331713a807d": {
-          "type": "collection",
-          "settings": {
-            "collection": "electronic",
-            "title": ""
-          }
-        },
-        "collection-1": {
-          "type": "collection",
-          "settings": {
-            "collection": "pop",
-            "title": ""
-          }
-        },
-        "6a331f29-78af-4779-a6e7-f375ce95bf88": {
-          "type": "collection",
-          "settings": {
-            "collection": "hip-hop",
-            "title": ""
-          }
-        },
-        "b1cf4d9b-b6c9-4185-b9d3-562101dc624c": {
-          "type": "collection",
-          "disabled": true,
-          "settings": {
-            "collection": "pop-rap",
-            "title": ""
-          }
-        }
-      },
-      "block_order": [
-        "515aae50-f833-454f-9631-ebe74ad5bdd6",
-        "47efe46a-f7f5-4534-a28d-0331713a807d",
-        "collection-1",
-        "6a331f29-78af-4779-a6e7-f375ce95bf88",
-        "b1cf4d9b-b6c9-4185-b9d3-562101dc624c"
-      ],
-      "settings": {
-        "title": "",
-        "thumbnail_columns_desktop": 4,
-        "thumbnail_columns_mobile": 3,
-        "image-crop": "original",
-        "cta_label": "",
-        "cta_link": "shopify:\/\/collections",
-        "cta_button_style": "primary"
-      }
-    },
     "1652204431ae4e3083": {
       "type": "dynamic-slideshow",
       "blocks": {
@@ -306,7 +249,6 @@
   "order": [
     "dynamic_slideshow",
     "1648735855b9114d43",
-    "dynamic_collection_list",
     "1652204431ae4e3083",
     "dynamic_search",
     "dynamic_promo_grid-2",
