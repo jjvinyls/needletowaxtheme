@@ -155,7 +155,7 @@
               {% endif %}
             {% when 'vendor' %}
               {% if product.vendor != blank or onboarding %}
-                <div class="product-vendor">
+                <div style="color:white" class="product-vendor">
                   {% unless onboarding %}
                     {%- capture vendor_link -%}
                       {{ product.vendor | link_to_vendor }}
