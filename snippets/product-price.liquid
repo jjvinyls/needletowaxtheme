@@ -200,7 +200,7 @@
 
   <div class="price__current {% if emphasize_price %}price__current--emphasize{% endif %} {% if on_sale %}price__current--on-sale{% endif %}" data-price-container>
     {%- capture price_html -%}
-      <span class="money" data-price>
+      <span style="color:white" class="money" data-price>
         {{ price | money }}
       </span>
     {%- endcapture -%}
