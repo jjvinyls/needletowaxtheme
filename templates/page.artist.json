@@ -1,1 +1,21 @@
-{"sections":{"main":{"type":"page","settings":{}},"16494378660fd4f38e":{"type":"dynamic-html","settings":{"title":"","custom_html":"<link rel=\"stylesheet\" href=\"https:\/\/cdn.jsdelivr.net\/npm\/bootstrap@4.6.1\/dist\/css\/bootstrap-grid.min.css\">\n\n<!-- TEMPLATE -->\n<div class=\"template container-fluid\">\n\t<div id=\"items\" class=\"row artist-list\">\n\t\t<div class=\"col-12\">\n\t\t\t<h1 class=\"loading-text\">Loading..<\/h1>\n\t\t<\/div>\n\t<\/div>\n<\/div>\n\n<!-- SCRIPT -->\n<script>\n\tfetch('https:\/\/www.jjvinyls.com\/api\/shopify\/collection-group\/find-one-alphabetized\/62504e7303949a00169ea659\/Artist')\n\t.then(\n\t\tfunction (response) {\n\t\t\t\/\/ The API call was successful!\n\t\t\treturn response.json()\n\t\t}\n\t).then(\n\t\tfunction (data) {\n\t\t\t\/\/ EMPTY OUT\n\t\t\tdocument.getElementById('items').innerHTML = ''\n\n\t\t\tObject.keys(data.alphabetized).forEach(\n\t\t\t\tfunction (key) {\n\t\t\t\t\ttoBeInsertedHTML = `\n\t\t\t\t\t\t<div class=\"col-12\">\n\t\t\t\t\t\t\t<h1 class=\"character-title\">${key}<\/h1>\n\t\t\t\t\t\t<\/div>\n\t\t\t\t\t`\n\n\t\t\t\t\tfor (let i = 0; i < data.alphabetized[key].length; i++) {\n\t\t\t\t\t\tconst c = data.alphabetized[key][i]\n\n\t\t\t\t\t\ttoBeInsertedHTML += `\n\t\t\t\t\t\t\t<div class=\"col-12 col-sm-6 col-md-4\">\n\t\t\t\t\t\t\t\t<a href=\"https:\/\/shop.jjvinyls.com\/collections\/${c.handle}\" class=\"\">\n\t\t\t\t\t\t\t\t\t${c.title}\n\t\t\t\t\t\t\t\t<\/a>\n\t\t\t\t\t\t\t<\/div>\n\t\t\t\t\t\t`\n\t\t\t\t\t}\n\n\t\t\t\t\tdocument.getElementById('items').innerHTML += toBeInsertedHTML\n\t\t\t\t}\n\t\t\t)\n\t\t}\n\t).catch(\n\t\tfunction (err) {\n\t\t\t\/\/ There was an error\n\t\t\tconsole.warn('Something went wrong.', err)\n\t\t}\n\t)\n<\/script>\n\n<style>\n\t.text-center {\n\t\ttext-align: center;\n\t}\n\n\t.artist-list .loading-text {\n\t\ttext-align: center;\n\t\ttext-transform: none;\n\t\tcolor: white;\n\t}\n\n\t.artist-list h1 {\n\t\ttext-align: center;\n\t\ttext-transform: uppercase;\n\t\tcolor: white;\n\t}\n\n\t.artist-list a {\n\t\ttext-transform: uppercase;\n\t}\n\n\t.character-title {\n\t\tbackground: #ed1b24;\n\t}\n<\/style>"}}},"order":["main","16494378660fd4f38e"]}
+{
+  "sections": {
+    "main": {
+      "type": "page",
+      "settings": {
+      }
+    },
+    "16494378660fd4f38e": {
+      "type": "dynamic-html",
+      "disabled": true,
+      "settings": {
+        "title": "",
+        "custom_html": "<link rel=\"stylesheet\" href=\"https:\/\/cdn.jsdelivr.net\/npm\/bootstrap@4.6.1\/dist\/css\/bootstrap-grid.min.css\">\n\n<!-- TEMPLATE -->\n<div class=\"template container-fluid\">\n\t<div id=\"items\" class=\"row artist-list\">\n\t\t<div class=\"col-12\">\n\t\t\t<h1 class=\"loading-text\">Loading..<\/h1>\n\t\t<\/div>\n\t<\/div>\n<\/div>\n\n<!-- SCRIPT -->\n<script>\n\tfetch('https:\/\/www.jjvinyls.com\/api\/shopify\/collection-group\/find-one-alphabetized\/62504e7303949a00169ea659\/Artist')\n\t.then(\n\t\tfunction (response) {\n\t\t\t\/\/ The API call was successful!\n\t\t\treturn response.json()\n\t\t}\n\t).then(\n\t\tfunction (data) {\n\t\t\t\/\/ EMPTY OUT\n\t\t\tdocument.getElementById('items').innerHTML = ''\n\n\t\t\tObject.keys(data.alphabetized).forEach(\n\t\t\t\tfunction (key) {\n\t\t\t\t\ttoBeInsertedHTML = `\n\t\t\t\t\t\t<div class=\"col-12\">\n\t\t\t\t\t\t\t<h1 class=\"character-title\">${key}<\/h1>\n\t\t\t\t\t\t<\/div>\n\t\t\t\t\t`\n\n\t\t\t\t\tfor (let i = 0; i < data.alphabetized[key].length; i++) {\n\t\t\t\t\t\tconst c = data.alphabetized[key][i]\n\n\t\t\t\t\t\ttoBeInsertedHTML += `\n\t\t\t\t\t\t\t<div class=\"col-12 col-sm-6 col-md-4\">\n\t\t\t\t\t\t\t\t<a href=\"https:\/\/shop.jjvinyls.com\/collections\/${c.handle}\" class=\"\">\n\t\t\t\t\t\t\t\t\t${c.title}\n\t\t\t\t\t\t\t\t<\/a>\n\t\t\t\t\t\t\t<\/div>\n\t\t\t\t\t\t`\n\t\t\t\t\t}\n\n\t\t\t\t\tdocument.getElementById('items').innerHTML += toBeInsertedHTML\n\t\t\t\t}\n\t\t\t)\n\t\t}\n\t).catch(\n\t\tfunction (err) {\n\t\t\t\/\/ There was an error\n\t\t\tconsole.warn('Something went wrong.', err)\n\t\t}\n\t)\n<\/script>\n\n<style>\n\t.text-center {\n\t\ttext-align: center;\n\t}\n\n\t.artist-list .loading-text {\n\t\ttext-align: center;\n\t\ttext-transform: none;\n\t\tcolor: white;\n\t}\n\n\t.artist-list h1 {\n\t\ttext-align: center;\n\t\ttext-transform: uppercase;\n\t\tcolor: white;\n\t}\n\n\t.artist-list a {\n\t\ttext-transform: uppercase;\n\t}\n\n\t.character-title {\n\t\tbackground: #ed1b24;\n\t}\n<\/style>"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "16494378660fd4f38e"
+  ]
+}

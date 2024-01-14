@@ -110,6 +110,7 @@
           },
           "ff9e6854-1318-4c95-a027-c4108d1e961d": {
             "type": "meganav_images",
+            "disabled": true,
             "settings": {
               "meganav_trigger": "Genre",
               "text_1": "",
@@ -124,6 +125,7 @@
           },
           "2a8344ec-0447-4b41-8206-0c7937f25be5": {
             "type": "meganav_images",
+            "disabled": true,
             "settings": {
               "meganav_trigger": "Category",
               "text_1": "",
