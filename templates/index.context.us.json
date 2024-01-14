@@ -4,5 +4,36 @@
     "market": "us"
   },
   "sections": {
+    "dynamic_slideshow": {
+      "disabled": false,
+      "settings": {
+      },
+      "blocks": {
+        "5bf71bfe-5eb9-432a-b85e-2425468f2daf": {
+          "disabled": true,
+          "settings": {
+          }
+        }
+      }
+    },
+    "1648735855b9114d43": {
+      "settings": {
+      },
+      "blocks": {
+        "1648735855319676c2-2": {
+          "settings": {
+            "text": "",
+            "button_text": "",
+            "button_style": "primary"
+          }
+        },
+        "1648735855319676c2-1": {
+          "settings": {
+            "button_text": "Book Appointment",
+            "block_link": "shopify:\/\/products\/set-a-time-to-spin"
+          }
+        }
+      }
+    }
   }
 }
