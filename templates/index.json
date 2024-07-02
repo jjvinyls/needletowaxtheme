@@ -1,3 +1,12 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "sections": {
     "dynamic_slideshow": {
@@ -8,11 +17,11 @@
           "settings": {
             "background_image": "shopify:\/\/shop_images\/Needle3_copy.jpg",
             "title": "Vinyl Records",
-            "text": "Art & Chess",
+            "text": "Curated.",
             "color": "#f2ebe3",
             "link": "",
             "text_alignment": "center",
-            "button_one_label": "Chess Booking",
+            "button_one_label": "Book Appointment",
             "button_one_link": "shopify:\/\/products\/set-a-time-to-spin",
             "button_one_style": "primary",
             "button_two_label": "",
