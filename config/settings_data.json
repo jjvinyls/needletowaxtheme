@@ -1,3 +1,12 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "current": {
     "color_background": "#262626",
@@ -61,7 +70,7 @@
     "social_linkedin": "",
     "favicon": "shopify:\/\/shop_images\/favicon_4e3f34bd-73af-45e0-9d3f-13374a3e176a.png",
     "enable_checkout_lock_icon": false,
-    "continue_shopping_url": "shopify:\/\/collections\/all",
+    "continue_shopping_url": "shopify:\/\/products\/shopping",
     "continue_url_cart": true,
     "continue_url_404": true,
     "gift_card_logo": "shopify:\/\/shop_images\/NTW_LOGO_PRIMARY_BLK.png",
