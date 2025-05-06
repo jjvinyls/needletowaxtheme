@@ -149,11 +149,11 @@
           "settings": {
             "image": "shopify://shop_images/Digging1_copy_891e38af-2e4b-4f4e-ad95-b3794bb05e3a.jpg",
             "background_position": "center-center",
-            "title": "Ready to Shop?",
-            "text": "Explore our highly curated collections of high quality vinyl records.",
+            "title": "Follow @needle.to.wax on Instagram for our pop-up locations",
+            "text": "",
             "color": "#f2ebe3",
-            "block_link": "shopify://products/set-a-time-to-spin",
-            "button_text": "Book an Appointment",
+            "block_link": "https://www.instagram.com/needle.to.wax/",
+            "button_text": "",
             "button_style": "primary",
             "show_overlay": true,
             "background": "#000000",
@@ -250,6 +250,7 @@
     },
     "1652191454e2abb247": {
       "type": "pxs-newsletter",
+      "disabled": true,
       "settings": {
         "title": "Newsletter",
         "text": "",
