@@ -176,6 +176,7 @@
           },
           "static-footer-1": {
             "type": "newsletter",
+            "disabled": true,
             "settings": {
               "title": "Subscribe",
               "text": "<p>Invite customers to join your mailing list.</p>"
