@@ -67,6 +67,64 @@
         "slideshow_text_below_image": false
       }
     },
+    "1652204431ae4e3083": {
+      "type": "dynamic-slideshow",
+      "blocks": {
+        "16522044318521d96b-0": {
+          "type": "slide",
+          "settings": {
+            "background_image": "shopify://shop_images/DUMBO2_copy.jpg",
+            "title": "Catch us at the Brooklyn Flea!",
+            "text": "Saturdays & Sundays   |  April. 1st - Dec. 31st | 10 AM - 5 PM",
+            "color": "#262626",
+            "link": "",
+            "text_alignment": "center",
+            "button_one_label": "Google Maps",
+            "button_one_link": "https://www.google.com/maps?q=80+Pearl+St,+Brooklyn,+NY+11201&sxsrf=ALiCzsaHKenWAJOafCM8O-v8r82yoY8LSA:1652368519921&uact=5&gs_lcp=Cgdnd3Mtd2l6EAMyAggmMgUIABCGAzoHCAAQRxCwA0oECEEYAEoECEYYAFDfB1jfB2CDDmgDcAF4AIABTYgBTZIBATGYAQCgAQKgAQHIAQjAAQE&um=1&ie=UTF-8&sa=X&ved=2ahUKEwj51IS-oNr3AhWsmOAKHTzGBe4Q_AUoAXoECAEQAw",
+            "button_one_style": "secondary",
+            "button_two_label": "",
+            "button_two_link": "",
+            "button_two_style": "primary",
+            "show_overlay": true,
+            "overlay_color": "#f2ebe3",
+            "overlay_opacity": 70
+          }
+        },
+        "16522044318521d96b-1": {
+          "type": "slide",
+          "disabled": true,
+          "settings": {
+            "background_image": "shopify://shop_images/Meadlowlands_copy.jpg",
+            "title": "Catch us at the Meadowlands Flea",
+            "text": "Apr. 1st - Dec. 31st | 10 AM - 5 PM",
+            "color": "#161616",
+            "link": "",
+            "text_alignment": "center",
+            "button_one_label": "Google Maps",
+            "button_one_link": "",
+            "button_one_style": "secondary",
+            "button_two_label": "",
+            "button_two_link": "",
+            "button_two_style": "primary",
+            "show_overlay": true,
+            "overlay_color": "#f2ebe3",
+            "overlay_opacity": 70
+          }
+        }
+      },
+      "block_order": [
+        "16522044318521d96b-0",
+        "16522044318521d96b-1"
+      ],
+      "settings": {
+        "enable_autoplay": true,
+        "autoplay_duration": 8,
+        "slideshow_width": "full",
+        "slideshow_height": "small",
+        "slideshow_height_mobile": "medium",
+        "slideshow_text_below_image": true
+      }
+    },
     "1648735855b9114d43": {
       "type": "dynamic-promo-grid",
       "blocks": {
@@ -114,65 +172,9 @@
         "text_alignment": "center-center"
       }
     },
-    "1652204431ae4e3083": {
-      "type": "dynamic-slideshow",
-      "blocks": {
-        "16522044318521d96b-0": {
-          "type": "slide",
-          "settings": {
-            "background_image": "shopify://shop_images/DUMBO2_copy.jpg",
-            "title": "Catch us at the Brooklyn Flea!",
-            "text": "Saturdays & Sundays   |  April. 1st - Dec. 31st | 10 AM - 5 PM",
-            "color": "#262626",
-            "link": "",
-            "text_alignment": "center",
-            "button_one_label": "Google Maps",
-            "button_one_link": "https://www.google.com/maps?q=80+Pearl+St,+Brooklyn,+NY+11201&sxsrf=ALiCzsaHKenWAJOafCM8O-v8r82yoY8LSA:1652368519921&uact=5&gs_lcp=Cgdnd3Mtd2l6EAMyAggmMgUIABCGAzoHCAAQRxCwA0oECEEYAEoECEYYAFDfB1jfB2CDDmgDcAF4AIABTYgBTZIBATGYAQCgAQKgAQHIAQjAAQE&um=1&ie=UTF-8&sa=X&ved=2ahUKEwj51IS-oNr3AhWsmOAKHTzGBe4Q_AUoAXoECAEQAw",
-            "button_one_style": "secondary",
-            "button_two_label": "",
-            "button_two_link": "",
-            "button_two_style": "primary",
-            "show_overlay": true,
-            "overlay_color": "#f2ebe3",
-            "overlay_opacity": 70
-          }
-        },
-        "16522044318521d96b-1": {
-          "type": "slide",
-          "settings": {
-            "background_image": "shopify://shop_images/Meadlowlands_copy.jpg",
-            "title": "Catch us at the Meadowlands Flea",
-            "text": "Apr. 1st - Dec. 31st | 10 AM - 5 PM",
-            "color": "#161616",
-            "link": "",
-            "text_alignment": "center",
-            "button_one_label": "Google Maps",
-            "button_one_link": "",
-            "button_one_style": "secondary",
-            "button_two_label": "",
-            "button_two_link": "",
-            "button_two_style": "primary",
-            "show_overlay": true,
-            "overlay_color": "#f2ebe3",
-            "overlay_opacity": 70
-          }
-        }
-      },
-      "block_order": [
-        "16522044318521d96b-0",
-        "16522044318521d96b-1"
-      ],
-      "settings": {
-        "enable_autoplay": true,
-        "autoplay_duration": 8,
-        "slideshow_width": "full",
-        "slideshow_height": "small",
-        "slideshow_height_mobile": "medium",
-        "slideshow_text_below_image": true
-      }
-    },
     "dynamic_search": {
       "type": "dynamic-search",
+      "disabled": true,
       "settings": {
         "title": "Search",
         "text": "",
@@ -258,8 +260,8 @@
   },
   "order": [
     "dynamic_slideshow",
-    "1648735855b9114d43",
     "1652204431ae4e3083",
+    "1648735855b9114d43",
     "dynamic_search",
     "dynamic_promo_grid-2",
     "1652197372183660c0",
