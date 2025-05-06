@@ -1,12 +1,12 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "current": {
     "color_background": "#262626",
@@ -68,12 +68,12 @@
     "social_vimeo": "",
     "social_youtube": "",
     "social_linkedin": "",
-    "favicon": "shopify:\/\/shop_images\/favicon_4e3f34bd-73af-45e0-9d3f-13374a3e176a.png",
+    "favicon": "shopify://shop_images/favicon_4e3f34bd-73af-45e0-9d3f-13374a3e176a.png",
     "enable_checkout_lock_icon": false,
-    "continue_shopping_url": "shopify:\/\/products\/shopping",
+    "continue_shopping_url": "shopify://products/shopping",
     "continue_url_cart": true,
     "continue_url_404": true,
-    "gift_card_logo": "shopify:\/\/shop_images\/NTW_LOGO_PRIMARY_BLK.png",
+    "gift_card_logo": "shopify://shop_images/NTW_LOGO_PRIMARY_BLK.png",
     "product_show_sku": false,
     "product_social_sharing": false,
     "product_grid_show_quickshop": "always",
@@ -142,7 +142,7 @@
         "settings": {
           "sticky_header": false,
           "full_width_header": true,
-          "logo": "shopify:\/\/shop_images\/NTW_LOGO_PRIMARY_BLK_SML.png",
+          "logo": "shopify://shop_images/NTW_LOGO_PRIMARY_BLK_SML.png",
           "logo_height": 80,
           "logo_width": 197,
           "filter_search_by": "product_type",
@@ -166,8 +166,7 @@
         "blocks": {
           "1493171899575": {
             "type": "social_accounts",
-            "settings": {
-            }
+            "settings": {}
           },
           "static-footer-0": {
             "type": "menu",
@@ -179,7 +178,7 @@
             "type": "newsletter",
             "settings": {
               "title": "Subscribe",
-              "text": "<p>Invite customers to join your mailing list.<\/p>"
+              "text": "<p>Invite customers to join your mailing list.</p>"
             }
           }
         },
@@ -200,8 +199,7 @@
         "blocks": {
           "1498186879532": {
             "type": "filter",
-            "settings": {
-            }
+            "settings": {}
           }
         },
         "block_order": [
@@ -247,17 +245,7 @@
         }
       }
     },
-    "content_for_index": [
-
-    ],
-    "blocks": {
-      "3886181796285292942": {
-        "type": "shopify:\/\/apps\/cowlendar-booking\/blocks\/app-embed\/6d8b8f6a-9b3c-42b8-b2e6-a758c38d45bf",
-        "disabled": false,
-        "settings": {
-        }
-      }
-    }
+    "content_for_index": []
   },
   "presets": {
     "Supply": {
@@ -325,7 +313,7 @@
       "social_youtube": "",
       "social_linkedin": "",
       "enable_checkout_lock_icon": false,
-      "continue_shopping_url": "shopify:\/\/collections\/all",
+      "continue_shopping_url": "shopify://collections/all",
       "continue_url_cart": true,
       "continue_url_404": true,
       "product_enable_recently_viewed_products": true,
@@ -394,28 +382,23 @@
           "blocks": {
             "1493171899575": {
               "type": "social_accounts",
-              "settings": {
-              }
+              "settings": {}
             },
             "static-footer-0": {
               "type": "menu",
-              "settings": {
-              }
+              "settings": {}
             },
             "1498182586280": {
               "type": "menu",
-              "settings": {
-              }
+              "settings": {}
             },
             "1498182572847": {
               "type": "menu",
-              "settings": {
-              }
+              "settings": {}
             },
             "static-footer-1": {
               "type": "newsletter",
-              "settings": {
-              }
+              "settings": {}
             }
           },
           "block_order": [
@@ -436,8 +419,7 @@
           "blocks": {
             "1498186879532": {
               "type": "filter",
-              "settings": {
-              }
+              "settings": {}
             }
           },
           "block_order": [
@@ -525,7 +507,7 @@
       "swatches_option_style": "color_swatch",
       "swatches_custom_colors": "",
       "enable_checkout_lock_icon": false,
-      "continue_shopping_url": "shopify:\/\/collections\/all",
+      "continue_shopping_url": "shopify://collections/all",
       "continue_url_cart": true,
       "continue_url_404": true,
       "product_enable_recently_viewed_products": true,
@@ -564,8 +546,7 @@
             },
             "1572476394007": {
               "type": "multi_column_menu",
-              "settings": {
-              }
+              "settings": {}
             }
           },
           "block_order": [
@@ -600,23 +581,19 @@
           "blocks": {
             "static-footer-0": {
               "type": "menu",
-              "settings": {
-              }
+              "settings": {}
             },
             "1498182586280": {
               "type": "menu",
-              "settings": {
-              }
+              "settings": {}
             },
             "1498182572847": {
               "type": "menu",
-              "settings": {
-              }
+              "settings": {}
             },
             "1493171899575": {
               "type": "social_accounts",
-              "settings": {
-              }
+              "settings": {}
             }
           },
           "block_order": [
@@ -637,8 +614,7 @@
           "blocks": {
             "1498186879532": {
               "type": "filter",
-              "settings": {
-              }
+              "settings": {}
             }
           },
           "block_order": [
@@ -683,8 +659,7 @@
         },
         "static-product-reviews": {
           "type": "static-product-reviews",
-          "settings": {
-          }
+          "settings": {}
         },
         "static-recently-viewed": {
           "type": "static-recently-viewed",
@@ -763,7 +738,7 @@
       "swatches_product_page_size": 64,
       "swatches_option_style": "color_swatch",
       "enable_checkout_lock_icon": false,
-      "continue_shopping_url": "shopify:\/\/collections\/all",
+      "continue_shopping_url": "shopify://collections/all",
       "continue_url_cart": true,
       "continue_url_404": true,
       "product_enable_recently_viewed_products": true,
@@ -802,8 +777,7 @@
             },
             "1572476394007": {
               "type": "multi_column_menu",
-              "settings": {
-              }
+              "settings": {}
             }
           },
           "block_order": [
@@ -839,28 +813,23 @@
           "blocks": {
             "1493171899575": {
               "type": "social_accounts",
-              "settings": {
-              }
+              "settings": {}
             },
             "static-footer-0": {
               "type": "menu",
-              "settings": {
-              }
+              "settings": {}
             },
             "1498182586280": {
               "type": "menu",
-              "settings": {
-              }
+              "settings": {}
             },
             "1498182572847": {
               "type": "menu",
-              "settings": {
-              }
+              "settings": {}
             },
             "static-footer-1": {
               "type": "newsletter",
-              "settings": {
-              }
+              "settings": {}
             }
           },
           "block_order": [
@@ -881,8 +850,7 @@
           "blocks": {
             "1498186879532": {
               "type": "filter",
-              "settings": {
-              }
+              "settings": {}
             }
           },
           "block_order": [
@@ -927,8 +895,7 @@
         },
         "static-product-reviews": {
           "type": "static-product-reviews",
-          "settings": {
-          }
+          "settings": {}
         },
         "static-recently-viewed": {
           "type": "static-recently-viewed",

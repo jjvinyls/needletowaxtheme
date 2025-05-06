@@ -1,12 +1,12 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "dynamic_slideshow": {
@@ -15,14 +15,14 @@
         "25082724-09bc-40b9-aaaa-1f7c32b9ef00": {
           "type": "slide",
           "settings": {
-            "background_image": "shopify:\/\/shop_images\/Needle3_copy.jpg",
-            "title": "Vinyl Records",
-            "text": "Curated.",
+            "background_image": "shopify://shop_images/Needle3_copy.jpg",
+            "title": "Website Revamp In Progress",
+            "text": "Sorry for any inconvenience",
             "color": "#f2ebe3",
             "link": "",
             "text_alignment": "center",
-            "button_one_label": "Book Appointment",
-            "button_one_link": "shopify:\/\/products\/shopping",
+            "button_one_label": "",
+            "button_one_link": "shopify://products/shopping",
             "button_one_style": "primary",
             "button_two_label": "",
             "button_two_link": "",
@@ -36,7 +36,7 @@
           "type": "slide",
           "disabled": true,
           "settings": {
-            "background_image": "shopify:\/\/shop_images\/imgonline-com-ua-ReplaceColor-ViwYX1wvNUcO2.jpg",
+            "background_image": "shopify://shop_images/imgonline-com-ua-ReplaceColor-ViwYX1wvNUcO2.jpg",
             "title": "Audio Equipment",
             "text": "",
             "color": "#ffffff",
@@ -73,7 +73,7 @@
         "1648735855319676c2-2": {
           "type": "promotion",
           "settings": {
-            "image": "shopify:\/\/shop_images\/ART_2-25.jpg",
+            "image": "shopify://shop_images/ART_2-25.jpg",
             "background_position": "center-center",
             "title": "",
             "text": "",
@@ -89,12 +89,12 @@
         "1648735855319676c2-1": {
           "type": "promotion",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Digging1_copy_891e38af-2e4b-4f4e-ad95-b3794bb05e3a.jpg",
+            "image": "shopify://shop_images/Digging1_copy_891e38af-2e4b-4f4e-ad95-b3794bb05e3a.jpg",
             "background_position": "center-center",
             "title": "Ready to Shop?",
             "text": "Explore our highly curated collections of high quality vinyl records.",
             "color": "#f2ebe3",
-            "block_link": "shopify:\/\/products\/set-a-time-to-spin",
+            "block_link": "shopify://products/set-a-time-to-spin",
             "button_text": "Book an Appointment",
             "button_style": "primary",
             "show_overlay": true,
@@ -120,14 +120,14 @@
         "16522044318521d96b-0": {
           "type": "slide",
           "settings": {
-            "background_image": "shopify:\/\/shop_images\/DUMBO2_copy.jpg",
+            "background_image": "shopify://shop_images/DUMBO2_copy.jpg",
             "title": "Catch us at the Brooklyn Flea",
             "text": "Apr. 1st - Dec. 31st | 10 AM - 5 PM",
             "color": "#262626",
             "link": "",
             "text_alignment": "center",
             "button_one_label": "Google Maps",
-            "button_one_link": "https:\/\/www.google.com\/maps?q=80+Pearl+St,+Brooklyn,+NY+11201&sxsrf=ALiCzsaHKenWAJOafCM8O-v8r82yoY8LSA:1652368519921&uact=5&gs_lcp=Cgdnd3Mtd2l6EAMyAggmMgUIABCGAzoHCAAQRxCwA0oECEEYAEoECEYYAFDfB1jfB2CDDmgDcAF4AIABTYgBTZIBATGYAQCgAQKgAQHIAQjAAQE&um=1&ie=UTF-8&sa=X&ved=2ahUKEwj51IS-oNr3AhWsmOAKHTzGBe4Q_AUoAXoECAEQAw",
+            "button_one_link": "https://www.google.com/maps?q=80+Pearl+St,+Brooklyn,+NY+11201&sxsrf=ALiCzsaHKenWAJOafCM8O-v8r82yoY8LSA:1652368519921&uact=5&gs_lcp=Cgdnd3Mtd2l6EAMyAggmMgUIABCGAzoHCAAQRxCwA0oECEEYAEoECEYYAFDfB1jfB2CDDmgDcAF4AIABTYgBTZIBATGYAQCgAQKgAQHIAQjAAQE&um=1&ie=UTF-8&sa=X&ved=2ahUKEwj51IS-oNr3AhWsmOAKHTzGBe4Q_AUoAXoECAEQAw",
             "button_one_style": "secondary",
             "button_two_label": "",
             "button_two_link": "",
@@ -140,7 +140,7 @@
         "16522044318521d96b-1": {
           "type": "slide",
           "settings": {
-            "background_image": "shopify:\/\/shop_images\/Meadlowlands_copy.jpg",
+            "background_image": "shopify://shop_images/Meadlowlands_copy.jpg",
             "title": "Catch us at the Meadowlands Flea",
             "text": "Apr. 1st - Dec. 31st | 10 AM - 5 PM",
             "color": "#161616",
@@ -194,12 +194,12 @@
         "c43fdeb2-62a9-4674-b777-1b9b8e62ca83": {
           "type": "promotion",
           "settings": {
-            "image": "shopify:\/\/shop_images\/ART_2-27.jpg",
+            "image": "shopify://shop_images/ART_2-27.jpg",
             "background_position": "center-left",
             "title": "Learn About Our Origins..",
             "text": "A bunch of guys (Jonny, Joey and Gaby) who have a passion for bringing life back to all vintage collectibles ...",
             "color": "{{ shop.brand.colors.primary[1].background }}",
-            "block_link": "shopify:\/\/pages\/about",
+            "block_link": "shopify://pages/about",
             "button_text": "Read More",
             "button_style": "primary",
             "show_overlay": false,
@@ -210,12 +210,12 @@
         "7e30abf6-9afc-42d0-88e1-7f8039b7b7a2": {
           "type": "promotion",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Old_copy.jpg",
+            "image": "shopify://shop_images/Old_copy.jpg",
             "background_position": "center-center",
             "title": "Got Old Vinyls?",
             "text": "We are glad to take them off your hands for a price.",
             "color": "{{ shop.brand.colors.primary[1].background }}",
-            "block_link": "shopify:\/\/pages\/contact",
+            "block_link": "shopify://pages/contact",
             "button_text": "Contact Us",
             "button_style": "primary",
             "show_overlay": false,
