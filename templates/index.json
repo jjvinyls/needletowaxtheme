@@ -80,7 +80,7 @@
             "link": "",
             "text_alignment": "center",
             "button_one_label": "Google Maps",
-            "button_one_link": "https://www.google.com/maps?q=80+Pearl+St,+Brooklyn,+NY+11201&sxsrf=ALiCzsaHKenWAJOafCM8O-v8r82yoY8LSA:1652368519921&uact=5&gs_lcp=Cgdnd3Mtd2l6EAMyAggmMgUIABCGAzoHCAAQRxCwA0oECEEYAEoECEYYAFDfB1jfB2CDDmgDcAF4AIABTYgBTZIBATGYAQCgAQKgAQHIAQjAAQE&um=1&ie=UTF-8&sa=X&ved=2ahUKEwj51IS-oNr3AhWsmOAKHTzGBe4Q_AUoAXoECAEQAw",
+            "button_one_link": "https://www.google.com/maps/place/Brooklyn+Flea/@40.7027697,-73.9884758,213m/data=!3m1!1e3!4m15!1m8!3m7!1s0x89c25a33ea1a6dbd:0x81ffbc80802f7246!2s80+Pearl+St,+Brooklyn,+NY+11201!3b1!8m2!3d40.7025962!4d-73.9877367!16s%2Fg%2F11c2g8xy42!3m5!1s0x89c25a33c7b39d2f:0x6f1a69911ec197c2!8m2!3d40.7034411!4d-73.9878255!16s%2Fg%2F11cmcjq39y?entry=ttu&g_ep=EgoyMDI1MDQzMC4xIKXMDSoASAFQAw%3D%3D",
             "button_one_style": "secondary",
             "button_two_label": "",
             "button_two_link": "",
