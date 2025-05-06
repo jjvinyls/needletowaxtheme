@@ -64,10 +64,12 @@
     "product_grid_show_atc": "always",
     "product_grid_show_second_image": true,
     "product_grid_image_style": "medium",
+    "social_instagram": "https://www.instagram.com/needle.to.wax/",
     "social_tumblr": "",
     "social_vimeo": "",
     "social_youtube": "",
     "social_linkedin": "",
+    "social_email": "needletowax@gmail.com",
     "favicon": "shopify://shop_images/favicon_4e3f34bd-73af-45e0-9d3f-13374a3e176a.png",
     "enable_checkout_lock_icon": false,
     "continue_shopping_url": "shopify://products/shopping",
@@ -170,6 +172,7 @@
           },
           "static-footer-0": {
             "type": "menu",
+            "disabled": true,
             "settings": {
               "menu": "main-menu"
             }
@@ -189,7 +192,7 @@
           "static-footer-1"
         ],
         "settings": {
-          "payment_icons": true,
+          "payment_icons": false,
           "show_locale_selector": true,
           "show_currency_selector": true,
           "additional_menu": "footer"
