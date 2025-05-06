@@ -92,16 +92,15 @@
         },
         "16522044318521d96b-1": {
           "type": "slide",
-          "disabled": true,
           "settings": {
             "background_image": "shopify://shop_images/Meadlowlands_copy.jpg",
-            "title": "Catch us at the Meadowlands Flea",
-            "text": "Apr. 1st - Dec. 31st | 10 AM - 5 PM",
+            "title": "Other Pop-Up Locations",
+            "text": "Follow us on Instagram to stay up to date!",
             "color": "#161616",
             "link": "",
             "text_alignment": "center",
-            "button_one_label": "Google Maps",
-            "button_one_link": "",
+            "button_one_label": "Instagram",
+            "button_one_link": "https://www.instagram.com/needle.to.wax/",
             "button_one_style": "secondary",
             "button_two_label": "",
             "button_two_link": "",
@@ -165,6 +164,7 @@
         "1648735855319676c2-2",
         "1648735855319676c2-1"
       ],
+      "disabled": true,
       "settings": {
         "title": "",
         "section_height": "small",
