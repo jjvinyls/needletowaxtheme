@@ -54,6 +54,29 @@
     </div>
   </button>
 
+  {% unless section.settings.show_mobile_search_bar %}
+    {% capture search_button %}
+      <div class="site-header-mobile-search-button--button" tabindex="-1">
+        {% render 'icon-search' %}
+      </div>
+    {% endcapture %}
+    {% if section.settings.enable_live_search %}
+      <button
+        class="site-header-mobile-search-button"
+        data-mobile-search-button
+      >
+        {{ search_button }}
+      </button>
+    {% else %}
+      <a
+        class="site-header-mobile-search-button"
+        href="{{ routes.search_url }}"
+      >
+        {{ search_button }}
+      </a>
+    {% endif %}
+  {% endunless %}
+
   <div
     class="
       site-header-main-content
