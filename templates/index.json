@@ -14,6 +14,7 @@
       "blocks": {
         "25082724-09bc-40b9-aaaa-1f7c32b9ef00": {
           "type": "slide",
+          "disabled": true,
           "settings": {
             "background_image": "shopify://shop_images/Needle3_copy.jpg",
             "title": "Website Revamp In Progress",
