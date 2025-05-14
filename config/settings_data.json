@@ -153,7 +153,7 @@
           "enable_live_search_images": false,
           "enable_live_search_articles_pages": false,
           "quick_links": "",
-          "menu": "",
+          "menu": "main-menu",
           "secondary_menu": "",
           "small_promo_heading": "",
           "small_promo_text": "",
