@@ -9,65 +9,6 @@
  */
 {
   "sections": {
-    "dynamic_slideshow": {
-      "type": "dynamic-slideshow",
-      "blocks": {
-        "25082724-09bc-40b9-aaaa-1f7c32b9ef00": {
-          "type": "slide",
-          "disabled": true,
-          "settings": {
-            "background_image": "shopify://shop_images/Needle3_copy.jpg",
-            "title": "Website Revamp In Progress",
-            "text": "Sorry for any inconvenience",
-            "color": "#f2ebe3",
-            "link": "",
-            "text_alignment": "center",
-            "button_one_label": "",
-            "button_one_link": "shopify://products/shopping",
-            "button_one_style": "primary",
-            "button_two_label": "",
-            "button_two_link": "",
-            "button_two_style": "secondary",
-            "show_overlay": false,
-            "overlay_color": "#262626",
-            "overlay_opacity": 10
-          }
-        },
-        "5bf71bfe-5eb9-432a-b85e-2425468f2daf": {
-          "type": "slide",
-          "disabled": true,
-          "settings": {
-            "background_image": "shopify://shop_images/imgonline-com-ua-ReplaceColor-ViwYX1wvNUcO2.jpg",
-            "title": "Audio Equipment",
-            "text": "",
-            "color": "#ffffff",
-            "link": "",
-            "text_alignment": "center",
-            "button_one_label": "Shop Now",
-            "button_one_link": "",
-            "button_one_style": "primary",
-            "button_two_label": "",
-            "button_two_link": "",
-            "button_two_style": "primary",
-            "show_overlay": true,
-            "overlay_color": "#e01f1f",
-            "overlay_opacity": 34
-          }
-        }
-      },
-      "block_order": [
-        "25082724-09bc-40b9-aaaa-1f7c32b9ef00",
-        "5bf71bfe-5eb9-432a-b85e-2425468f2daf"
-      ],
-      "settings": {
-        "enable_autoplay": true,
-        "autoplay_duration": 9,
-        "slideshow_width": "full",
-        "slideshow_height": "medium",
-        "slideshow_height_mobile": "x-large",
-        "slideshow_text_below_image": false
-      }
-    },
     "1652204431ae4e3083": {
       "type": "dynamic-slideshow",
       "blocks": {
@@ -261,7 +202,6 @@
     }
   },
   "order": [
-    "dynamic_slideshow",
     "1652204431ae4e3083",
     "1648735855b9114d43",
     "dynamic_search",
