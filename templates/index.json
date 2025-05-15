@@ -59,7 +59,7 @@
       ],
       "settings": {
         "enable_autoplay": true,
-        "autoplay_duration": 8,
+        "autoplay_duration": 5,
         "slideshow_width": "full",
         "slideshow_height": "small",
         "slideshow_height_mobile": "medium",
