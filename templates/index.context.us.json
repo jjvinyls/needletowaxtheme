@@ -1,24 +1,20 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "parent": "index.json",
   "context": {
     "market": "us"
   },
   "sections": {
-    "dynamic_slideshow": {
-      "disabled": false,
-      "settings": {
-      },
-      "blocks": {
-        "5bf71bfe-5eb9-432a-b85e-2425468f2daf": {
-          "disabled": true,
-          "settings": {
-          }
-        }
-      }
-    },
     "1648735855b9114d43": {
-      "settings": {
-      },
+      "settings": {},
       "blocks": {
         "1648735855319676c2-2": {
           "settings": {
@@ -30,7 +26,7 @@
         "1648735855319676c2-1": {
           "settings": {
             "button_text": "Book Appointment",
-            "block_link": "shopify:\/\/products\/set-a-time-to-spin"
+            "block_link": "shopify://products/set-a-time-to-spin"
           }
         }
       }
