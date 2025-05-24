@@ -9,6 +9,23 @@
  */
 {
   "sections": {
+    "pxs_image_with_text_overlay_cTPW3X": {
+      "type": "pxs-image-with-text-overlay",
+      "name": "Image with text overlay",
+      "settings": {
+        "section_height": "small",
+        "image": "shopify://shop_images/Needle_1_copy.jpg",
+        "position": "center center",
+        "title": "Fully mobile record store with a rare collection",
+        "text": "<p>Needle to Wax sells records, CDs, and cassettes - <br/>specializing in Jazz, Jazz Fusion, J-Pop, City Pop, and New Wave</p>",
+        "content_position": "center-center",
+        "color": "#f2ebe3",
+        "overlay_background": "#262626",
+        "overlay_opacity": 50,
+        "link": "",
+        "button_text": "Instagram"
+      }
+    },
     "1652204431ae4e3083": {
       "type": "dynamic-slideshow",
       "blocks": {
@@ -71,6 +88,7 @@
       "blocks": {
         "1648735855319676c2-2": {
           "type": "promotion",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/ART_2-25.jpg",
             "background_position": "center-center",
@@ -87,6 +105,7 @@
         },
         "1648735855319676c2-1": {
           "type": "promotion",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/Digging1_copy_891e38af-2e4b-4f4e-ad95-b3794bb05e3a.jpg",
             "background_position": "center-center",
@@ -106,7 +125,6 @@
         "1648735855319676c2-2",
         "1648735855319676c2-1"
       ],
-      "disabled": true,
       "settings": {
         "title": "",
         "section_height": "small",
@@ -138,17 +156,17 @@
         "c43fdeb2-62a9-4674-b777-1b9b8e62ca83": {
           "type": "promotion",
           "settings": {
-            "image": "shopify://shop_images/ART_2-27.jpg",
+            "image": "shopify://shop_images/Digging1_copy.jpg",
             "background_position": "center-left",
             "title": "Looking For Anything In Particular?",
-            "text": "Let us know if there's something specific you can't find. Chances are we can get it for you.",
-            "color": "{{ shop.brand.colors.primary[1].background }}",
+            "text": "Let us know if there's some specific music media you can't find. Chances are we can get it for you.",
+            "color": "#f2ebe3",
             "block_link": "shopify://pages/contact-us",
             "button_text": "Contact Us",
             "button_style": "primary",
-            "show_overlay": false,
+            "show_overlay": true,
             "background": "#262626",
-            "opacity": 40
+            "opacity": 51
           }
         },
         "7e30abf6-9afc-42d0-88e1-7f8039b7b7a2": {
@@ -202,6 +220,7 @@
     }
   },
   "order": [
+    "pxs_image_with_text_overlay_cTPW3X",
     "1652204431ae4e3083",
     "1648735855b9114d43",
     "dynamic_search",
