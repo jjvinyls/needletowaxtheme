@@ -704,6 +704,12 @@
       },
       {
         "type": "text",
+        "id": "social_tiktok",
+        "label": "TikTok",
+        "info": "https://www.tiktok.com/@shopify"
+      },
+      {
+        "type": "text",
         "id": "social_vimeo",
         "label": "Vimeo",
         "info": "https://vimeo.com/shopify"
