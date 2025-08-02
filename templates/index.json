@@ -23,7 +23,7 @@
         "overlay_background": "#262626",
         "overlay_opacity": 50,
         "link": "https://www.instagram.com/needle.to.wax/",
-        "button_text": "Instagram"
+        "button_text": "Follow Us"
       }
     },
     "1652204431ae4e3083": {
@@ -58,7 +58,7 @@
             "color": "#161616",
             "link": "",
             "text_alignment": "center",
-            "button_one_label": "Instagram",
+            "button_one_label": "Follow Us",
             "button_one_link": "https://www.instagram.com/needle.to.wax/",
             "button_one_style": "primary",
             "button_two_label": "",
