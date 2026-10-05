@@ -34,25 +34,33 @@
     "dynamic_html_m8mRQd": {
       "type": "dynamic-html",
       "custom_css": [
-        ".ntw-how-it-works{max-width:1100px;margin:auto;padding:20px}",
-        ".ntw-how-it-works h2{text-align:center;font-size:32px;margin:0 0 28px}",
-        ".ntw-steps{display:grid;grid-template-columns:repeat(3,1fr);gap:18px}",
-        ".ntw-step{padding:24px;border:1px solid #555}",
-        ".ntw-step span{opacity:.6}",
-        ".ntw-step h3{font-size:21px;margin:14px 0}",
-        ".ntw-step p{line-height:1.55;margin:0}",
-        "@media(max-width:749px){.ntw-steps{grid-template-columns:1fr}}"
+        ".ntw-how-it-works {max-width: 1100px; margin: auto; padding: 20px;}",
+        ".ntw-how-it-works h2 {text-align: center; font-size: 32px; margin: 0 0 28px;}",
+        ".ntw-steps {display: grid; grid-template-columns: repeat(3, 1fr); gap: 18px;}",
+        ".ntw-step {padding: 24px; border: 1px solid #555;}",
+        ".ntw-step span {opacity: 0.6;}",
+        ".ntw-step h3 {font-size: 21px; margin: 14px 0;}",
+        ".ntw-step p {line-height: 1.55; margin: 0;}",
+        "@media (max-width: 749px) {.ntw-steps {grid-template-columns: 1fr; }}"
       ],
       "name": "Custom HTML",
       "settings": {
         "title": "",
         "custom_html": "<div class=\"ntw-how-it-works\">\n  <h2>How It Works</h2>\n\n  <div class=\"ntw-steps\">\n    <div class=\"ntw-step\">\n      <span>01</span>\n      <h3>Tell Us About Your Collection</h3>\n      <p>Share a few details about your records, including the approximate size, the music you collect, and a few photographs.</p>\n    </div>\n\n    <div class=\"ntw-step\">\n      <span>02</span>\n      <h3>We Review It Personally</h3>\n      <p>Every collection is different. We’ll review what you send and determine whether it may be a good fit for Needle to Wax.</p>\n    </div>\n\n    <div class=\"ntw-step\">\n      <span>03</span>\n      <h3>We Take It From There</h3>\n      <p>For collections that are a good fit, we’ll discuss the next step. For larger collections, we can arrange to come to you, evaluate the records, and make an offer.</p>\n    </div>\n  </div>\n</div>"
       }
+    },
+    "dynamic_custom_liquid_TAaHKa": {
+      "type": "dynamic-custom-liquid",
+      "name": "Custom liquid",
+      "settings": {
+        "custom_liquid": "<div class=\"ntw-form\">\n  <h2>Tell Us About Your Collection</h2>\n  <p>Share a few details below and we'll personally review your collection.</p>\n\n  {% form 'contact' %}\n    <label for=\"name\">Name</label>\n    <input id=\"name\" type=\"text\" name=\"contact[name]\" required>\n\n    <label for=\"email\">Email</label>\n    <input id=\"email\" type=\"email\" name=\"contact[email]\" required>\n\n    <label for=\"phone\">Phone</label>\n    <input id=\"phone\" type=\"tel\" name=\"contact[phone]\">\n\n    <label for=\"location\">Town / State</label>\n    <input id=\"location\" type=\"text\" name=\"contact[location]\">\n\n    <label for=\"size\">Approximately how many records?</label>\n    <input id=\"size\" type=\"text\" name=\"contact[collection_size]\">\n\n    <label for=\"music\">What kind of music is in the collection?</label>\n    <textarea id=\"music\" name=\"contact[genres_artists]\" rows=\"4\"></textarea>\n\n    <label for=\"details\">Anything else we should know?</label>\n    <textarea id=\"details\" name=\"contact[body]\" rows=\"5\"></textarea>\n\n    <button type=\"submit\">Tell Us About Your Collection</button>\n  {% endform %}\n</div>"
+      }
     }
   },
   "order": [
     "main",
     "dynamic_rich_text_LQdh3T",
-    "dynamic_html_m8mRQd"
+    "dynamic_html_m8mRQd",
+    "dynamic_custom_liquid_TAaHKa"
   ]
 }
