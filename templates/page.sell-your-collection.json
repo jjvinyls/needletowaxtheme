@@ -11,6 +11,7 @@
   "sections": {
     "main": {
       "type": "page",
+      "disabled": true,
       "settings": {}
     },
     "dynamic_rich_text_LQdh3T": {
@@ -19,7 +20,7 @@
       "settings": {
         "width": "regular",
         "title": "A thoughtful home for your record collection",
-        "text": "<p><br/>Just let me get that for you. So in the text box under that heading, paste this. \"Needle to Wax purchases thoughtfully built record collections from people who care about where their music goes next. We are serious record people. We understand the time, taste, knowledge, and care that can go into building a collection over decades, and we approach every collection with that same level of respect. When a collection is a strong fit for Needle to Wax, we are prepared to make a serious, competitive offer and handle the process professionally from start to finish<br/><br/></p>",
+        "text": "<p><br/>Needle to Wax purchases thoughtfully built record collections from people who care about where their music goes next. We are serious record people. We understand the time, taste, knowledge, and care that can go into building a collection over decades, and we approach every collection with that same level of respect. When a collection is a strong fit for Needle to Wax, we are prepared to make a serious, competitive offer and handle the process professionally from start to finish<br/><br/></p>",
         "heading_size": "medium",
         "text_alignment": "left"
       }
