@@ -29,10 +29,29 @@
         "heading_size": "medium",
         "text_alignment": "left"
       }
+    },
+    "dynamic_html_m8mRQd": {
+      "type": "dynamic-html",
+      "custom_css": [
+        ".ntw-how-it-works{max-width:1100px;margin:auto;padding:45px 20px}",
+        ".ntw-how-it-works h2{text-align:center;font-size:32px;margin:0 0 35px}",
+        ".ntw-steps{display:grid;grid-template-columns:repeat(3,1fr);gap:22px}",
+        ".ntw-step{padding:25px;border:1px solid #555}",
+        ".ntw-step span{display:block;margin-bottom:18px;opacity:.6}",
+        ".ntw-step h3{font-size:21px;margin:0 0 14px}",
+        ".ntw-step p{line-height:1.6;margin:0}",
+        "@media(max-width:749px){.ntw-steps{grid-template-columns:1fr}}"
+      ],
+      "name": "Custom HTML",
+      "settings": {
+        "title": "",
+        "custom_html": "<div class=\"ntw-how-it-works\">\n  <h2>How It Works</h2>\n\n  <div class=\"ntw-steps\">\n    <div class=\"ntw-step\">\n      <span>01</span>\n      <h3>Tell Us About Your Collection</h3>\n      <p>Share a few details about your records, including the approximate size, the music you collect, and a few photographs.</p>\n    </div>\n\n    <div class=\"ntw-step\">\n      <span>02</span>\n      <h3>We Review It Personally</h3>\n      <p>Every collection is different. We’ll review what you send and determine whether it may be a good fit for Needle to Wax.</p>\n    </div>\n\n    <div class=\"ntw-step\">\n      <span>03</span>\n      <h3>We Take It From There</h3>\n      <p>For collections that are a good fit, we’ll discuss the next step. For larger collections, we can arrange to come to you, evaluate the records, and make an offer.</p>\n    </div>\n  </div>\n</div>"
+      }
     }
   },
   "order": [
     "main",
-    "dynamic_rich_text_LQdh3T"
+    "dynamic_rich_text_LQdh3T",
+    "dynamic_html_m8mRQd"
   ]
 }
