@@ -57,7 +57,7 @@
           "settings": {
             "form_uuid": "URJiR4K4JNgHHp98_M7uuQ",
             "form_settings": false,
-            "font_color": "#F3EFE7",
+            "font_color": "#f3efe7",
             "size": 14,
             "input_background_color": "#fff",
             "input_background_color_focus": "#f4dada",
@@ -85,6 +85,10 @@
       },
       "block_order": [
         "hulk_form_builder_form_block_BGTyDy"
+      ],
+      "custom_css": [
+        "h2 {font-size: 32px;}",
+        "label {color: #F3EFE7 !important;}"
       ],
       "settings": {
         "include_padding": true
