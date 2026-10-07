@@ -56,7 +56,7 @@
           "type": "shopify://apps/hulk-form-builder/blocks/form-block/b6b8dd14-356b-4725-a4ed-77232212b3c3",
           "settings": {
             "form_uuid": "URJiR4K4JNgHHp98_M7uuQ",
-            "form_settings": true,
+            "form_settings": false,
             "font_color": "#2D2727",
             "size": 14,
             "input_background_color": "#fff",
