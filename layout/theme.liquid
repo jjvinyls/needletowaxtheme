@@ -428,7 +428,28 @@
     </script>
    {% include 'smile-initializer' %}
 
-   
+   <script>
+document.addEventListener("DOMContentLoaded",function(){
+  function fixHulkLabels(){
+    document.querySelectorAll(
+      '.checkbox-inline label,.radio-inline label,.checkbox-list label,.radio-list label'
+    ).forEach(function(el){
+      el.style.setProperty('color','#F3EFE7','important');
+      el.style.setProperty('opacity','1','important');
+    });
+  }
+
+  fixHulkLabels();
+
+  new MutationObserver(fixHulkLabels).observe(document.body,{
+    childList:true,
+    subtree:true
+  });
+});
+</script>
+
+</body>
+</html>
    
 </body>
 </html>
