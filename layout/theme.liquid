@@ -428,16 +428,19 @@
     </script>
    {% include 'smile-initializer' %}
 
-   <style>
-.checkbox-inline label,
-.radio-inline label,
-.checkbox-list label,
-.radio-list label,
-input[type="checkbox"] + label,
-input[type="radio"] + label {
-  color: #F3EFE7 !important;
-  opacity: 1 !important;
+   <script>
+function fixHulkChoices(){
+  document.querySelectorAll('input[type="checkbox"],input[type="radio"]').forEach(function(input){
+    var label=input.nextElementSibling;
+    if(label&&label.tagName==="LABEL"){
+      label.style.setProperty("color","#F3EFE7","important");
+      label.style.setProperty("opacity","1","important");
+    }
+  });
 }
-</style>
+document.addEventListener("DOMContentLoaded",fixHulkChoices);
+setInterval(fixHulkChoices,1000);
+</script>
+   
 </body>
 </html>
