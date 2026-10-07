@@ -428,19 +428,7 @@
     </script>
    {% include 'smile-initializer' %}
 
-   <script>
-function fixHulkChoices(){
-  document.querySelectorAll('input[type="checkbox"],input[type="radio"]').forEach(function(input){
-    var label=input.nextElementSibling;
-    if(label&&label.tagName==="LABEL"){
-      label.style.setProperty("color","#F3EFE7","important");
-      label.style.setProperty("opacity","1","important");
-    }
-  });
-}
-document.addEventListener("DOMContentLoaded",fixHulkChoices);
-setInterval(fixHulkChoices,1000);
-</script>
+   
    
 </body>
 </html>
