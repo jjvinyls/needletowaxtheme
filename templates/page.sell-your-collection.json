@@ -56,15 +56,15 @@
           "type": "shopify://apps/hulk-form-builder/blocks/form-block/b6b8dd14-356b-4725-a4ed-77232212b3c3",
           "settings": {
             "form_uuid": "URJiR4K4JNgHHp98_M7uuQ",
-            "form_settings": false,
-            "font_color": "#f3efe7",
+            "form_settings": true,
+            "font_color": "#2D2727",
             "size": 14,
             "input_background_color": "#fff",
             "input_background_color_focus": "#f4dada",
             "input_border_radius": 1,
             "input_border_color": "#ebe9e9",
             "input_border_color_focus": "#2d2727",
-            "input_font_color": "#3d3131",
+            "input_font_color": "#EBE9E9",
             "input_size": 14,
             "border_color": "#121212",
             "border_radius": 2,
@@ -88,7 +88,7 @@
       ],
       "custom_css": [
         "h2 {font-size: 32px;}",
-        "label {color: #F3EFE7 !important;}"
+        "label {color: #f3efe7 !important;}"
       ],
       "settings": {
         "include_padding": true
